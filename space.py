@@ -4,7 +4,7 @@
                #                                 #  ########   kienhoc.vn            #
                #    Write by                     #   #     #   pythonprogramming.net #
                #         Diệp Minh Anh Tiến      #   #     #   songho.ca             #
-               #         Cơ điện tử K60BKHN      #   #     ###########################
+               #                                 #   #     ###########################
                #                                 # #
                ###################################
 
